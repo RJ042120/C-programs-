@@ -9,7 +9,7 @@ main()
 	printf("two \n");
 	printf("three \n");
 	hi:
-	printf("I am Soumabha Nandi \n");
+	printf("I am Rajesh Kumar Sau \n");
 	printf("wise men say \n");
 	printf("only fools rush in \n");
 	i=i+5;
