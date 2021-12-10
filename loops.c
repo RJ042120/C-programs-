@@ -17,5 +17,5 @@ main()
 	printf("I am out of for loop \n");
 	
 	for(;;)
-		printf("soumabha");
+		printf("Rajesh");
 }
